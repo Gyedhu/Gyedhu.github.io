@@ -1,0 +1,48 @@
+html,
+body {
+    background: url("./green-leaves-1072179.jpg") no-repeat center center fixed; 
+    background-size: cover;
+    font-family: 'Montserrat', sans-serif;
+    height: 100%;
+    widows: 100%;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -webkit-background-size: cover;
+} 
+
+
+h1 {
+    color: white;
+    font-size: 3rem;
+}
+
+.btn {
+    border-radius: 300px;
+    font-weight: 700;
+}
+
+.btn-primary {
+    background-color: #ff4500;
+    border-color: #ff4500;
+}
+
+.btn-primary:hover {
+    background-color: #ee4b08;
+    border-color: #ee4b08;
+    border-width: 4px;
+}
+
+.btn-xl {
+    padding: 1rem 2rem;
+}
+
+.buffer {
+    height: 10rem;
+}
+
+hr {
+    border-color: #c5b4ae;
+    border-width: 3px;
+    max-width: 65px;
+}
+
